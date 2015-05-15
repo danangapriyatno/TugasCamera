@@ -1,4 +1,4 @@
 # TugasCamera
 
-Danang Prasetyo A 
+Danang Prasetyo A /
 NIM 672012032
